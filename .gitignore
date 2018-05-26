@@ -42,3 +42,5 @@ _assets/stylesheets/*.css
 node_modules/*
 .jekyll-metadata
 .asset-cache
+_old
+output/*

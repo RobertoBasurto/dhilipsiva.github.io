@@ -7,9 +7,12 @@ name = "pypi"
 pip = "*"
 libsass = "*"
 "jinja2" = "*"
+requests = "*"
+watchdog = "*"
 
 [dev-packages]
 neovim = "*"
+ipdb = "*"
 
 [requires]
 python_version = "3.6"
