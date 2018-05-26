@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pip = "*"
+libsass = "*"
+"jinja2" = "*"
 
 [dev-packages]
 neovim = "*"

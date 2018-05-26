@@ -1,5 +1,0 @@
-https://github.com/kirang89/cleanify
-https://github.com/gears/gears
-https://github.com/rspivak/slimit
-https://github.com/pallets/jinja
-https://github.com/sass/libsass-python
